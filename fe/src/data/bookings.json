@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "username":"Aslam4106",
+        "date":"27-12-2022",
+        "place":"davangere",
+        "services":["car wash","body wash"]
+    },
+    {
+        "id":2,
+        "username":"Aslam4106",
+        "date":"25-12-2022",
+        "place":"banglore",
+        "services":["car wash","body wash"]
+    },
+    {
+        "id":3,
+        "username":"Aslam4106",
+        "date":"26-12-2022",
+        "place":"harihar",
+        "services":["car wash","body wash"]
+    },
+    {
+        "id":4,
+        "username":"Alam4106",
+        "date":"26-12-2022",
+        "place":"azad",
+        "services":["car wash","body wash","tyre change"]
+    }
+]
